@@ -23,6 +23,7 @@ Feel free to contribute, modify, or enhance this schema to better fit specific p
 3. **Run the Script:** Execute the provided SQL script to create the database and tables in your MSSQL server.
 I welcome any contributions and feedback to make this project better!
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Proje Adı:** TwitterApp Veritabanı Şeması
 
